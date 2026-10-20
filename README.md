@@ -1,4 +1,7 @@
 # Hi there, I'm Teedchanaa Sugumaran! 👋
+<p align="center">
+  <img src="TEEDCHANAA PASS PIC 1.jpg" alt="Teedchanaa Sugumaran" width="180" style="border-radius: 50%;">
+</p>
 
 Mahasiswa / Pembelajar baharu yang sedang mendalami dunia pengaturcaraan dan GitHub. 
 
