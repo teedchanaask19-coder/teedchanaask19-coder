@@ -1,6 +1,6 @@
 # Hi there, I'm Teedchanaa Sugumaran! 👋
 <p align="center">
-  <img src="TEEDCHANAA PASS PIC 1.jpeg" alt="Teedchanaa Sugumaran" width="180" style="border-radius: 50%;">
+  <img src="https://github.com/teedchanaask19-coder/scst1133/blob/main/exercises/Exercise2/TEEDCHANAA%20PASS%20PIC%201.jpeg" alt="Teedchanaa Sugumaran" width="180" style="border-radius: 50%;">
 </p>
 
 Mahasiswa / Pembelajar baharu yang sedang mendalami dunia pengaturcaraan dan GitHub. 
