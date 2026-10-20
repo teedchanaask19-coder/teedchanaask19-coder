@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Teedchanaa Sugumaran! 👋
 
 Mahasiswa / Pembelajar baharu yang sedang mendalami dunia pengaturcaraan dan GitHub. 
