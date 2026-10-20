@@ -12,7 +12,6 @@ Mahasiswa / Pembelajar baharu yang sedang mendalami dunia pengaturcaraan dan Git
 
 ## 🛠️ Bahasa & Alatan Pengaturcaraan
 - **Asas:** Markdown, Git, GitHub
-- *(Anda boleh tambah bahasa lain di sini kemudian)*
 
 ## 📫 Hubungi Saya
 - GitHub: [@teedchanaask19-coder](https://github.com/teedchanaask19-coder)
